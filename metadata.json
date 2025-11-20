@@ -1,0 +1,7 @@
+{
+  "name": "美食與飲品地圖",
+  "description": "智能餐廳與飲料推薦助手，使用 Gemini 技術為您尋找附近的餐廳、手搖飲與咖啡廳。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
